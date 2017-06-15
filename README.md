@@ -5,7 +5,7 @@ Detecting digit on the images using Convolution Neural Networks
 
 * "conv_net.py" script builds the convolutional network and dumps it in .hdf5 file, which reduces the overhead of training the model again.
 
-* Flask App folder contains the code for the app implmented [here](https://mynkpl1998.pythonanywhere.com)
+* Flask App folder contains the code for the app implmented [here](http://mynkpl1998.pythonanywhere.com)
 
 # Artitecture of artificial neural network
   
