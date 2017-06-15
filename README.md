@@ -9,10 +9,10 @@ Detecting digit on the images using Convolution Neural Networks
 
 # Artitecture of artificial neural network
   
-  1. 2D Convoultional 
+  1. 2D Convoultion
   2. Relu Activation
   3. 2D MAX Pooling
-  4. 2D Convoultional 
+  4. 2D Convoultion
   5. Relu Activation
   6. 2D MAX Pooling
   7. Dense layer with ouput dim of 500
