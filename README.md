@@ -1,11 +1,14 @@
 # Hand Written Digit Recognition
-
 Detecting digit on the images using Convolution Neural Networks  
+
+<img src="https://raw.githubusercontent.com/mynkpl1998/Hand-Written-Digit-Recognition/master/demo.png" width=800 height=400>
+
+
 * The neural network network is trained on the grayscale images provided by kaggle form MNIST competition. "Data" folder    contains the data to train the images. 
 
 * "conv_net.py" script builds the convolutional network and dumps it in .hdf5 file, which reduces the overhead of training the model again.
 
-* Flask App folder contains the code for the app implmented [here](http://mynkpl1998.pythonanywhere.com)
+* **Flask App folder contains the code for the app implmented [here](http://mynkpl1998.pythonanywhere.com)**
 
 # Artitecture of artificial neural network
   
